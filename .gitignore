@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.DS_Store
+.cache/
+output/
+models/*.pt
+
+# Local configuration, credentials, and development artifacts
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+node_modules/

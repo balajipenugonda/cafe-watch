@@ -1,0 +1,7 @@
+torch>=2.7,<3
+torchvision>=0.22,<1
+transformers>=5.19,<6
+pillow>=11,<13
+huggingface-hub>=0.34,<2
+ultralytics>=8.3,<9
+imageio-ffmpeg>=0.6,<1
